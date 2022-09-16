@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Me describo como una persona comprometida, detallista, curiosa, creativa y fiel amante del avance tecnológico y redes sociales, gracias a esto me adentré en el mundo del desarrollo web.
+
+Disfruto del trabajo en equipo porque me ayuda a tener distintas perspectivas, me permite crecer y a la vez estar en constante aprendizaje, ya que, hoy evoluciona todo con rapidez.
+
+algunas tecnologias de programación que manejo 
+HTML5 / Css3 / JavaScript / React.js / Bootstrap / python /
